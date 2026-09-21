@@ -1,0 +1,1059 @@
+[
+  {
+    "name": "Algae",
+    "path": "assets/algae.png",
+    "page": "https://oxygennotincluded.wiki.gg/wiki/Algae",
+    "url": "https://oxygennotincluded.wiki.gg/images/Algae.png?b63024",
+    "present": true
+  },
+  {
+    "name": "Arbor Tree",
+    "path": "assets/arbor_tree.png",
+    "page": "https://oxygennotincluded.wiki.gg/wiki/Arbor_Tree",
+    "url": "https://oxygennotincluded.wiki.gg/images/Arbor_Tree.png?5177dc",
+    "present": true
+  },
+  {
+    "name": "Barbeque",
+    "path": "assets/barbeque.png",
+    "page": "https://oxygennotincluded.wiki.gg/wiki/Barbeque",
+    "url": "https://oxygennotincluded.wiki.gg/images/Resource_Barbeque.png?512e4c",
+    "present": true
+  },
+  {
+    "name": "Berry Sludge",
+    "path": "assets/berry_sludge.png",
+    "page": "https://oxygennotincluded.wiki.gg/wiki/Berry_Sludge",
+    "url": "https://oxygennotincluded.wiki.gg/images/Resource_Berry_Sludge.png?f14372",
+    "present": true
+  },
+  {
+    "name": "Bleach Stone",
+    "path": "assets/bleach_stone.png",
+    "page": "https://oxygennotincluded.wiki.gg/wiki/Bleach_Stone",
+    "url": "https://oxygennotincluded.wiki.gg/images/Bleach_Stone.png?2566c8",
+    "present": true
+  },
+  {
+    "name": "Bog Bucket",
+    "path": "assets/bog_bucket.png",
+    "page": "https://oxygennotincluded.wiki.gg/wiki/Bog_Bucket",
+    "url": "https://oxygennotincluded.wiki.gg/images/Bog_Bucket_%28Spaced_Out%29.png?e0c82c",
+    "present": true
+  },
+  {
+    "name": "Bog Jelly",
+    "path": "assets/bog_jelly.png",
+    "page": "https://oxygennotincluded.wiki.gg/wiki/Bog_Jelly",
+    "url": "https://oxygennotincluded.wiki.gg/images/Bog_Jelly.png?a589c4",
+    "present": true
+  },
+  {
+    "name": "Bonbon Tree",
+    "path": "assets/bonbon_tree.png",
+    "page": "https://oxygennotincluded.wiki.gg/wiki/Bonbon_Tree",
+    "url": "https://oxygennotincluded.wiki.gg/images/Bonbon_Tree.png?9d316b",
+    "present": true
+  },
+  {
+    "name": "Brine",
+    "path": "assets/brine.png",
+    "page": "https://oxygennotincluded.wiki.gg/wiki/Brine",
+    "url": "https://oxygennotincluded.wiki.gg/images/Brine.png?925651",
+    "present": true
+  },
+  {
+    "name": "Bristle Berry",
+    "path": "assets/bristle_berry.png",
+    "page": "https://oxygennotincluded.wiki.gg/wiki/Bristle_Berry",
+    "url": "https://oxygennotincluded.wiki.gg/images/Resource_Bristle_Berry.png?835cae",
+    "present": true
+  },
+  {
+    "name": "Bristle Blossom",
+    "path": "assets/bristle_blossom.png",
+    "page": "https://oxygennotincluded.wiki.gg/wiki/Bristle_Blossom",
+    "url": "https://oxygennotincluded.wiki.gg/images/Bristle_Blossom.png?d3d7a2",
+    "present": true
+  },
+  {
+    "name": "Buried Muckroot",
+    "path": "assets/buried_muckroot.png",
+    "page": "https://oxygennotincluded.wiki.gg/wiki/Buried_Muckroot",
+    "url": "https://oxygennotincluded.wiki.gg/images/Buried_Muckroot.png?ae3cef",
+    "present": true
+  },
+  {
+    "name": "Calamari",
+    "path": "assets/calamari.png",
+    "page": "https://oxygennotincluded.wiki.gg/wiki/Calamari",
+    "url": "https://oxygennotincluded.wiki.gg/images/Calamari.png?ee394a",
+    "present": true
+  },
+  {
+    "name": "Chlorine Gas",
+    "path": "assets/chlorine_gas.png",
+    "page": "https://oxygennotincluded.wiki.gg/wiki/Chlorine_Gas",
+    "url": "https://oxygennotincluded.wiki.gg/images/Chlorine_Gas.png?3cc9d7",
+    "present": true
+  },
+  {
+    "name": "Cooked Seafood",
+    "path": "assets/cooked_seafood.png",
+    "page": "https://oxygennotincluded.wiki.gg/wiki/Cooked_Seafood",
+    "url": "https://oxygennotincluded.wiki.gg/images/Resource_Cooked_Seafood.png?8be41e",
+    "present": true
+  },
+  {
+    "name": "Curried Beans",
+    "path": "assets/curried_beans.png",
+    "page": "https://oxygennotincluded.wiki.gg/wiki/Curried_Beans",
+    "url": "https://oxygennotincluded.wiki.gg/images/Resource_CurriedBeans.png?d30f52",
+    "present": true
+  },
+  {
+    "name": "Deep Fryer",
+    "path": "assets/deep_fryer.png",
+    "page": "https://oxygennotincluded.wiki.gg/wiki/Deep_Fryer",
+    "url": "https://oxygennotincluded.wiki.gg/images/Deep_Fryer.png?603279",
+    "present": true
+  },
+  {
+    "name": "Delecta Vole",
+    "path": "assets/delecta_vole.png",
+    "page": "https://oxygennotincluded.wiki.gg/wiki/Delecta_Vole",
+    "url": "https://oxygennotincluded.wiki.gg/images/Delecta_Vole.png?6370d4",
+    "present": true
+  },
+  {
+    "name": "Dirt",
+    "path": "assets/dirt.png",
+    "page": "https://oxygennotincluded.wiki.gg/wiki/Dirt",
+    "url": "https://oxygennotincluded.wiki.gg/images/Resource_Dirt.png?1569e7",
+    "present": true
+  },
+  {
+    "name": "Drecko",
+    "path": "assets/drecko.png",
+    "page": "https://oxygennotincluded.wiki.gg/wiki/Drecko",
+    "url": "https://oxygennotincluded.wiki.gg/images/Drecko.png?27d44c",
+    "present": true
+  },
+  {
+    "name": "Dusk Cap",
+    "path": "assets/dusk_cap.png",
+    "page": "https://oxygennotincluded.wiki.gg/wiki/Dusk_Cap",
+    "url": "https://oxygennotincluded.wiki.gg/images/Dusk_Cap.png?31ce0a",
+    "present": true
+  },
+  {
+    "name": "Edamame",
+    "path": "assets/edamame.png",
+    "page": "https://oxygennotincluded.wiki.gg/wiki/Edamame",
+    "url": "https://oxygennotincluded.wiki.gg/images/Edamame.png?e22cfa",
+    "present": true
+  },
+  {
+    "name": "Electric Grill",
+    "path": "assets/electric_grill.png",
+    "page": "https://oxygennotincluded.wiki.gg/wiki/Electric_Grill",
+    "url": "https://oxygennotincluded.wiki.gg/images/Electric_Grill.png?7e3bb5",
+    "present": true
+  },
+  {
+    "name": "Ethanol",
+    "path": "assets/ethanol.png",
+    "page": "https://oxygennotincluded.wiki.gg/wiki/Ethanol",
+    "url": "https://oxygennotincluded.wiki.gg/images/Ethanol.png?4051f1",
+    "present": true
+  },
+  {
+    "name": "Ethanol Distiller",
+    "path": "assets/ethanol_distiller.png",
+    "page": "https://oxygennotincluded.wiki.gg/wiki/Ethanol_Distiller",
+    "url": null,
+    "present": true
+  },
+  {
+    "name": "Fertilizer",
+    "path": "assets/fertilizer.png",
+    "page": "https://oxygennotincluded.wiki.gg/wiki/Fertilizer",
+    "url": "https://oxygennotincluded.wiki.gg/images/Fertilizer.png?cb8d18",
+    "present": true
+  },
+  {
+    "name": "Fertilizer Synthesizer",
+    "path": "assets/fertilizer_synthesizer.png",
+    "page": "https://oxygennotincluded.wiki.gg/wiki/Fertilizer_Synthesizer",
+    "url": null,
+    "present": true
+  },
+  {
+    "name": "Fish Fillet",
+    "path": "assets/fish_fillet.png",
+    "page": "https://oxygennotincluded.wiki.gg/wiki/Fish_Fillet",
+    "url": "https://oxygennotincluded.wiki.gg/images/Fish_Fillet.png?719b3f",
+    "present": true
+  },
+  {
+    "name": "Fish Taco",
+    "path": "assets/fish_taco.png",
+    "page": "https://oxygennotincluded.wiki.gg/wiki/Fish_Taco",
+    "url": "https://oxygennotincluded.wiki.gg/images/Fish_Taco.png?5071b8",
+    "present": true
+  },
+  {
+    "name": "Fried Mushroom",
+    "path": "assets/fried_mushroom.png",
+    "page": "https://oxygennotincluded.wiki.gg/wiki/Fried_Mushroom",
+    "url": "https://oxygennotincluded.wiki.gg/images/Resource_Fried_Mushroom.png?efc8d4",
+    "present": true
+  },
+  {
+    "name": "Frost Bun",
+    "path": "assets/frost_bun.png",
+    "page": "https://oxygennotincluded.wiki.gg/wiki/Frost_Bun",
+    "url": "https://oxygennotincluded.wiki.gg/images/Resource_Frost_Bun.png?91f368",
+    "present": true
+  },
+  {
+    "name": "Frost Burger",
+    "path": "assets/frost_burger.png",
+    "page": "https://oxygennotincluded.wiki.gg/wiki/Frost_Burger",
+    "url": "https://oxygennotincluded.wiki.gg/images/Resource_Frost_Burger.png?5bef19",
+    "present": true
+  },
+  {
+    "name": "Gas Range",
+    "path": "assets/gas_range.png",
+    "page": "https://oxygennotincluded.wiki.gg/wiki/Gas_Range",
+    "url": "https://oxygennotincluded.wiki.gg/images/Gas_Range.png?caa6a2",
+    "present": true
+  },
+  {
+    "name": "Glo Squid",
+    "path": "assets/glo_squid.png",
+    "page": "https://oxygennotincluded.wiki.gg/wiki/Glo_Squid",
+    "url": "https://oxygennotincluded.wiki.gg/images/Glo_Squid.png?359f92",
+    "present": true
+  },
+  {
+    "name": "Gristle Berry",
+    "path": "assets/gristle_berry.png",
+    "page": "https://oxygennotincluded.wiki.gg/wiki/Gristle_Berry",
+    "url": "https://oxygennotincluded.wiki.gg/images/Resource_Gristle_Berry.png?54d4d8",
+    "present": true
+  },
+  {
+    "name": "Grubfruit",
+    "path": "assets/grubfruit.png",
+    "page": "https://oxygennotincluded.wiki.gg/wiki/Grubfruit",
+    "url": "https://oxygennotincluded.wiki.gg/images/Grubfruit.png?c29391",
+    "present": true
+  },
+  {
+    "name": "Grubfruit Plant",
+    "path": "assets/grubfruit_plant.png",
+    "page": "https://oxygennotincluded.wiki.gg/wiki/Grubfruit_Plant",
+    "url": "https://oxygennotincluded.wiki.gg/images/Grubfruit_Plant.png?8e4c88",
+    "present": true
+  },
+  {
+    "name": "Grubfruit Preserve",
+    "path": "assets/grubfruit_preserve.png",
+    "page": "https://oxygennotincluded.wiki.gg/wiki/Grubfruit_Preserve",
+    "url": "https://oxygennotincluded.wiki.gg/images/Grubfruit_Preserve.png?bfb831",
+    "present": true
+  },
+  {
+    "name": "Hatch",
+    "path": "assets/hatch.png",
+    "page": "https://oxygennotincluded.wiki.gg/wiki/Hatch",
+    "url": "https://oxygennotincluded.wiki.gg/images/Hatch.png?e0fab3",
+    "present": true
+  },
+  {
+    "name": "Hexalent",
+    "path": "assets/hexalent.png",
+    "page": "https://oxygennotincluded.wiki.gg/wiki/Hexalent",
+    "url": "https://oxygennotincluded.wiki.gg/images/Hexalent.png?b05452",
+    "present": true
+  },
+  {
+    "name": "Hexalent Fruit",
+    "path": "assets/hexalent_fruit.png",
+    "page": "https://oxygennotincluded.wiki.gg/wiki/Hexalent_Fruit",
+    "url": "https://oxygennotincluded.wiki.gg/images/Resource_Hexalent_Fruit.png?68c3b5",
+    "present": true
+  },
+  {
+    "name": "Ice Maker",
+    "path": "assets/ice_maker.png",
+    "page": "https://oxygennotincluded.wiki.gg/wiki/Ice_Maker",
+    "url": null,
+    "present": true
+  },
+  {
+    "name": "Igneous Rock",
+    "path": "assets/igneous_rock.png",
+    "page": "https://oxygennotincluded.wiki.gg/wiki/Igneous_Rock",
+    "url": "https://oxygennotincluded.wiki.gg/images/Igneous_Rock.png?c2bb8e",
+    "present": true
+  },
+  {
+    "name": "Jawbo",
+    "path": "assets/jawbo.png",
+    "page": "https://oxygennotincluded.wiki.gg/wiki/Jawbo",
+    "url": "https://oxygennotincluded.wiki.gg/images/Jawbo.png?3ffbbb",
+    "present": true
+  },
+  {
+    "name": "Jawbo Fillet",
+    "path": "assets/jawbo_fillet.png",
+    "page": "https://oxygennotincluded.wiki.gg/wiki/Jawbo_Fillet",
+    "url": "https://oxygennotincluded.wiki.gg/images/Jawbo_Fillet.png?f3bff3",
+    "present": true
+  },
+  {
+    "name": "Kelpole",
+    "path": "assets/kelpole.png",
+    "page": "https://oxygennotincluded.wiki.gg/wiki/Kelpole",
+    "url": "https://oxygennotincluded.wiki.gg/images/Kelpole.png?f8b7a6",
+    "present": true
+  },
+  {
+    "name": "Lettuce",
+    "path": "assets/lettuce.png",
+    "page": "https://oxygennotincluded.wiki.gg/wiki/Lettuce",
+    "url": "https://oxygennotincluded.wiki.gg/images/Resource_Lettuce.png?bec0ba",
+    "present": true
+  },
+  {
+    "name": "Liceloaf",
+    "path": "assets/liceloaf.png",
+    "page": "https://oxygennotincluded.wiki.gg/wiki/Liceloaf",
+    "url": "https://oxygennotincluded.wiki.gg/images/Resource_Liceloaf.png?289d96",
+    "present": true
+  },
+  {
+    "name": "Lumb",
+    "path": "assets/lumb.png",
+    "page": "https://oxygennotincluded.wiki.gg/wiki/Lumb",
+    "url": "https://oxygennotincluded.wiki.gg/images/Lumb.png?8599c9",
+    "present": true
+  },
+  {
+    "name": "Meal Lice",
+    "path": "assets/meal_lice.png",
+    "page": "https://oxygennotincluded.wiki.gg/wiki/Meal_Lice",
+    "url": "https://oxygennotincluded.wiki.gg/images/Resource_Meal_Lice.png?c4ef2a",
+    "present": true
+  },
+  {
+    "name": "Mealwood",
+    "path": "assets/mealwood.png",
+    "page": "https://oxygennotincluded.wiki.gg/wiki/Mealwood",
+    "url": "https://oxygennotincluded.wiki.gg/images/Mealwood.png?53fede",
+    "present": true
+  },
+  {
+    "name": "Meat",
+    "path": "assets/meat.png",
+    "page": "https://oxygennotincluded.wiki.gg/wiki/Meat",
+    "url": "https://oxygennotincluded.wiki.gg/images/Resource_Meat.png?644dfa",
+    "present": true
+  },
+  {
+    "name": "Megafrond",
+    "path": "assets/megafrond.png",
+    "page": "https://oxygennotincluded.wiki.gg/wiki/Megafrond",
+    "url": "https://oxygennotincluded.wiki.gg/images/Megafrond.png?67f2ab",
+    "present": true
+  },
+  {
+    "name": "Megafrond Grain",
+    "path": "assets/megafrond_grain.png",
+    "page": "https://oxygennotincluded.wiki.gg/wiki/Megafrond_Grain",
+    "url": "https://oxygennotincluded.wiki.gg/images/Megafrond_Grain.png?e1ba81",
+    "present": true
+  },
+  {
+    "name": "Microbe Musher",
+    "path": "assets/microbe_musher.png",
+    "page": "https://oxygennotincluded.wiki.gg/wiki/Microbe_Musher",
+    "url": "https://oxygennotincluded.wiki.gg/images/Microbe_Musher.png?6ddbe5",
+    "present": true
+  },
+  {
+    "name": "Mimika",
+    "path": "assets/mimika.png",
+    "page": "https://oxygennotincluded.wiki.gg/wiki/Mimika",
+    "url": "https://oxygennotincluded.wiki.gg/images/Mimika.png?9f6949",
+    "present": true
+  },
+  {
+    "name": "Mimika Bud",
+    "path": "assets/mimika_bud.png",
+    "page": "https://oxygennotincluded.wiki.gg/wiki/Mimika_Bud",
+    "url": "https://oxygennotincluded.wiki.gg/images/Mimika_Bud.png?b80f0d",
+    "present": true
+  },
+  {
+    "name": "Mimillet",
+    "path": "assets/mimillet.png",
+    "page": "https://oxygennotincluded.wiki.gg/wiki/Mimillet",
+    "url": "https://oxygennotincluded.wiki.gg/images/Mimillet.png?1d3802",
+    "present": true
+  },
+  {
+    "name": "Mixed Berry Pie",
+    "path": "assets/mixed_berry_pie.png",
+    "page": "https://oxygennotincluded.wiki.gg/wiki/Mixed_Berry_Pie",
+    "url": "https://oxygennotincluded.wiki.gg/images/Mixed_Berry_Pie.png?792079",
+    "present": true
+  },
+  {
+    "name": "Muckroot",
+    "path": "assets/muckroot.png",
+    "page": "https://oxygennotincluded.wiki.gg/wiki/Muckroot",
+    "url": "https://oxygennotincluded.wiki.gg/images/Resource_Muckroot.png?dabb2d",
+    "present": true
+  },
+  {
+    "name": "Mush Bar",
+    "path": "assets/mush_bar.png",
+    "page": "https://oxygennotincluded.wiki.gg/wiki/Mush_Bar",
+    "url": "https://oxygennotincluded.wiki.gg/images/Resource_Mush_Bar.png?2fba8e",
+    "present": true
+  },
+  {
+    "name": "Mush Fry",
+    "path": "assets/mush_fry.png",
+    "page": "https://oxygennotincluded.wiki.gg/wiki/Mush_Fry",
+    "url": "https://oxygennotincluded.wiki.gg/images/Resource_Mush_Fry.png?abe50b",
+    "present": true
+  },
+  {
+    "name": "Mushroom",
+    "path": "assets/mushroom.png",
+    "page": "https://oxygennotincluded.wiki.gg/wiki/Mushroom",
+    "url": "https://oxygennotincluded.wiki.gg/images/Resource_Mushroom.png?b1ec8c",
+    "present": true
+  },
+  {
+    "name": "Mushroom Quiche",
+    "path": "assets/mushroom_quiche.png",
+    "page": "https://oxygennotincluded.wiki.gg/wiki/Mushroom_Quiche",
+    "url": "https://oxygennotincluded.wiki.gg/images/Resource_Mushroom_Quiche.png?d61c42",
+    "present": true
+  },
+  {
+    "name": "Mushroom Wrap",
+    "path": "assets/mushroom_wrap.png",
+    "page": "https://oxygennotincluded.wiki.gg/wiki/Mushroom_Wrap",
+    "url": "https://oxygennotincluded.wiki.gg/images/Resource_Mushroom_Wrap.png?16b8ff",
+    "present": true
+  },
+  {
+    "name": "Mussel Sprout",
+    "path": "assets/mussel_sprout.png",
+    "page": "https://oxygennotincluded.wiki.gg/wiki/Mussel_Sprout",
+    "url": "https://oxygennotincluded.wiki.gg/images/Mussel_Sprout.png?5f82c7",
+    "present": true
+  },
+  {
+    "name": "Mussel Tongue",
+    "path": "assets/mussel_tongue.png",
+    "page": "https://oxygennotincluded.wiki.gg/wiki/Mussel_Tongue",
+    "url": "https://oxygennotincluded.wiki.gg/images/Mussel_Tongue.png?c08139",
+    "present": true
+  },
+  {
+    "name": "Nigiri",
+    "path": "assets/nigiri.png",
+    "page": "https://oxygennotincluded.wiki.gg/wiki/Nigiri",
+    "url": "https://oxygennotincluded.wiki.gg/images/Nigiri.png?da2300",
+    "present": true
+  },
+  {
+    "name": "Nori",
+    "path": "assets/nori.png",
+    "page": "https://oxygennotincluded.wiki.gg/wiki/Nori",
+    "url": "https://oxygennotincluded.wiki.gg/images/Nori.png?ebff4d",
+    "present": true
+  },
+  {
+    "name": "Nosh Bean",
+    "path": "assets/nosh_bean.png",
+    "page": "https://oxygennotincluded.wiki.gg/wiki/Nosh_Bean",
+    "url": "https://oxygennotincluded.wiki.gg/images/Nosh_Bean.png?712675",
+    "present": true
+  },
+  {
+    "name": "Nosh Noms",
+    "path": "assets/nosh_noms.png",
+    "page": "https://oxygennotincluded.wiki.gg/wiki/Nosh_Noms",
+    "url": "https://oxygennotincluded.wiki.gg/images/Nosh_Noms.png?b07b87",
+    "present": true
+  },
+  {
+    "name": "Nosh Sprout",
+    "path": "assets/nosh_sprout.png",
+    "page": "https://oxygennotincluded.wiki.gg/wiki/Nosh_Sprout",
+    "url": "https://oxygennotincluded.wiki.gg/images/Nosh_Sprout.png?350bfc",
+    "present": true
+  },
+  {
+    "name": "Nutrient Bar",
+    "path": "assets/nutrient_bar.png",
+    "page": "https://oxygennotincluded.wiki.gg/wiki/Nutrient_Bar",
+    "url": "https://oxygennotincluded.wiki.gg/images/Resource_Nutrient_Bar.png?4e4e6c",
+    "present": true
+  },
+  {
+    "name": "Omelette",
+    "path": "assets/omelette.png",
+    "page": "https://oxygennotincluded.wiki.gg/wiki/Omelette",
+    "url": "https://oxygennotincluded.wiki.gg/images/Resource_Omelette.png?502e8d",
+    "present": true
+  },
+  {
+    "name": "Ovagro Fig",
+    "path": "assets/ovagro_fig.png",
+    "page": "https://oxygennotincluded.wiki.gg/wiki/Ovagro_Fig",
+    "url": "https://oxygennotincluded.wiki.gg/images/Ovagro_Fig.png?45e22b",
+    "present": true
+  },
+  {
+    "name": "Ovagro Node",
+    "path": "assets/ovagro_node.png",
+    "page": "https://oxygennotincluded.wiki.gg/wiki/Ovagro_Node",
+    "url": "https://oxygennotincluded.wiki.gg/images/Ovagro_Node.png?bbe7c6",
+    "present": true
+  },
+  {
+    "name": "Pacu",
+    "path": "assets/pacu.png",
+    "page": "https://oxygennotincluded.wiki.gg/wiki/Pacu",
+    "url": "https://oxygennotincluded.wiki.gg/images/Pacu.png?ef88d7",
+    "present": true
+  },
+  {
+    "name": "Peat",
+    "path": "assets/peat.png",
+    "page": "https://oxygennotincluded.wiki.gg/wiki/Peat",
+    "url": "https://oxygennotincluded.wiki.gg/images/Peat.png?465eec",
+    "present": true
+  },
+  {
+    "name": "Pemmican",
+    "path": "assets/pemmican.png",
+    "page": "https://oxygennotincluded.wiki.gg/wiki/Pemmican",
+    "url": "https://oxygennotincluded.wiki.gg/images/Pemmican.png?c90024",
+    "present": true
+  },
+  {
+    "name": "Pepper Bread",
+    "path": "assets/pepper_bread.png",
+    "page": "https://oxygennotincluded.wiki.gg/wiki/Pepper_Bread",
+    "url": "https://oxygennotincluded.wiki.gg/images/Resource_Pepper_Bread.png?be2298",
+    "present": true
+  },
+  {
+    "name": "Phosphorite",
+    "path": "assets/phosphorite.png",
+    "page": "https://oxygennotincluded.wiki.gg/wiki/Phosphorite",
+    "url": "https://oxygennotincluded.wiki.gg/images/Phosphorite.png?801df1",
+    "present": true
+  },
+  {
+    "name": "Pickled Meal",
+    "path": "assets/pickled_meal.png",
+    "page": "https://oxygennotincluded.wiki.gg/wiki/Pickled_Meal",
+    "url": "https://oxygennotincluded.wiki.gg/images/Resource_Pickled_Meal.png?a08762",
+    "present": true
+  },
+  {
+    "name": "Pikeapple",
+    "path": "assets/pikeapple.png",
+    "page": "https://oxygennotincluded.wiki.gg/wiki/Pikeapple",
+    "url": "https://oxygennotincluded.wiki.gg/images/Pikeapple.png?3c3775",
+    "present": true
+  },
+  {
+    "name": "Pikeapple Bush",
+    "path": "assets/pikeapple_bush.png",
+    "page": "https://oxygennotincluded.wiki.gg/wiki/Pikeapple_Bush",
+    "url": "https://oxygennotincluded.wiki.gg/images/Pikeapple_Bush.png?4413d9",
+    "present": true
+  },
+  {
+    "name": "Pikeapple Skewer",
+    "path": "assets/pikeapple_skewer.png",
+    "page": "https://oxygennotincluded.wiki.gg/wiki/Pikeapple_Skewer",
+    "url": "https://oxygennotincluded.wiki.gg/images/Pikeapple_Skewer.png?52dc5c",
+    "present": true
+  },
+  {
+    "name": "Pincha Peppernut",
+    "path": "assets/pincha_peppernut.png",
+    "page": "https://oxygennotincluded.wiki.gg/wiki/Pincha_Peppernut",
+    "url": "https://oxygennotincluded.wiki.gg/images/Pincha_Peppernut.png?63b8b0",
+    "present": true
+  },
+  {
+    "name": "Pincha Pepperplant",
+    "path": "assets/pincha_pepperplant.png",
+    "page": "https://oxygennotincluded.wiki.gg/wiki/Pincha_Pepperplant",
+    "url": "https://oxygennotincluded.wiki.gg/images/Pincha_Pepperplant.png?fa66ff",
+    "present": true
+  },
+  {
+    "name": "Pinpoket",
+    "path": "assets/pinpoket.png",
+    "page": "https://oxygennotincluded.wiki.gg/wiki/Pinpoket",
+    "url": "https://oxygennotincluded.wiki.gg/images/Pinpoket.png?719efa",
+    "present": true
+  },
+  {
+    "name": "Pinpoki",
+    "path": "assets/pinpoki.png",
+    "page": "https://oxygennotincluded.wiki.gg/wiki/Pinpoki",
+    "url": "https://oxygennotincluded.wiki.gg/images/Pinpoki.png?479f75",
+    "present": true
+  },
+  {
+    "name": "Plant Meat",
+    "path": "assets/plant_meat.png",
+    "page": "https://oxygennotincluded.wiki.gg/wiki/Plant_Meat",
+    "url": "https://oxygennotincluded.wiki.gg/images/Plant_Meat.png?b9c653",
+    "present": true
+  },
+  {
+    "name": "Plume Squash",
+    "path": "assets/plume_squash.png",
+    "page": "https://oxygennotincluded.wiki.gg/wiki/Plume_Squash",
+    "url": "https://oxygennotincluded.wiki.gg/images/Plume_Squash.png?fa7208",
+    "present": true
+  },
+  {
+    "name": "Plume Squash Plant",
+    "path": "assets/plume_squash_plant.png",
+    "page": "https://oxygennotincluded.wiki.gg/wiki/Plume_Squash_Plant",
+    "url": "https://oxygennotincluded.wiki.gg/images/Plume_Squash_Plant.png?8e4ff8",
+    "present": true
+  },
+  {
+    "name": "Polluted Dirt",
+    "path": "assets/polluted_dirt.png",
+    "page": "https://oxygennotincluded.wiki.gg/wiki/Polluted_Dirt",
+    "url": "https://oxygennotincluded.wiki.gg/images/Polluted_Dirt.png?9aeb5b",
+    "present": true
+  },
+  {
+    "name": "Polluted Water",
+    "path": "assets/polluted_water.png",
+    "page": "https://oxygennotincluded.wiki.gg/wiki/Polluted_Water",
+    "url": "https://oxygennotincluded.wiki.gg/images/Polluted_Water.png?38ace1",
+    "present": true
+  },
+  {
+    "name": "Ration Box",
+    "path": "assets/ration_box.png",
+    "page": "https://oxygennotincluded.wiki.gg/wiki/Ration_Box",
+    "url": "https://oxygennotincluded.wiki.gg/images/Ration_Box.png?99303b",
+    "present": true
+  },
+  {
+    "name": "Raw Egg",
+    "path": "assets/raw_egg.png",
+    "page": "https://oxygennotincluded.wiki.gg/wiki/Raw_Egg",
+    "url": "https://oxygennotincluded.wiki.gg/images/Raw_Egg.png?81c6c8",
+    "present": true
+  },
+  {
+    "name": "Raw Shellfish",
+    "path": "assets/raw_shellfish.png",
+    "page": "https://oxygennotincluded.wiki.gg/wiki/Raw_Shellfish",
+    "url": "https://oxygennotincluded.wiki.gg/images/Raw_Shellfish.png?d611a9",
+    "present": true
+  },
+  {
+    "name": "Refined Carbon",
+    "path": "assets/refined_carbon.png",
+    "page": "https://oxygennotincluded.wiki.gg/wiki/Refined_Carbon",
+    "url": "https://oxygennotincluded.wiki.gg/images/Refined_Carbon.png?7beae2",
+    "present": true
+  },
+  {
+    "name": "Regolith",
+    "path": "assets/regolith.png",
+    "page": "https://oxygennotincluded.wiki.gg/wiki/Regolith",
+    "url": "https://oxygennotincluded.wiki.gg/images/Regolith.png?c5f250",
+    "present": true
+  },
+  {
+    "name": "Roast Grubfruit Nut",
+    "path": "assets/roast_grubfruit_nut.png",
+    "page": "https://oxygennotincluded.wiki.gg/wiki/Roast_Grubfruit_Nut",
+    "url": "https://oxygennotincluded.wiki.gg/images/Roast_Grubfruit_Nut.png?326819",
+    "present": true
+  },
+  {
+    "name": "Sage Hatch",
+    "path": "assets/sage_hatch.png",
+    "page": "https://oxygennotincluded.wiki.gg/wiki/Sage_Hatch",
+    "url": "https://oxygennotincluded.wiki.gg/images/Sage_Hatch.png?783040",
+    "present": true
+  },
+  {
+    "name": "Salt",
+    "path": "assets/salt.png",
+    "page": "https://oxygennotincluded.wiki.gg/wiki/Salt",
+    "url": "https://oxygennotincluded.wiki.gg/images/Salt.png?731ebc",
+    "present": true
+  },
+  {
+    "name": "Salt Water",
+    "path": "assets/salt_water.png",
+    "page": "https://oxygennotincluded.wiki.gg/wiki/Salt_Water",
+    "url": "https://oxygennotincluded.wiki.gg/images/Salt_Water.png?8067b5",
+    "present": true
+  },
+  {
+    "name": "Salty Sticks",
+    "path": "assets/salty_sticks.png",
+    "page": "https://oxygennotincluded.wiki.gg/wiki/Salty_Sticks",
+    "url": "https://oxygennotincluded.wiki.gg/images/Salty_Sticks.png?f3fb3d",
+    "present": true
+  },
+  {
+    "name": "Sanishell",
+    "path": "assets/sanishell.png",
+    "page": "https://oxygennotincluded.wiki.gg/wiki/Sanishell",
+    "url": "https://oxygennotincluded.wiki.gg/images/Sanishell.png?5cea3e",
+    "present": true
+  },
+  {
+    "name": "Saturn Critter Trap",
+    "path": "assets/saturn_critter_trap.png",
+    "page": "https://oxygennotincluded.wiki.gg/wiki/Saturn_Critter_Trap",
+    "url": "https://oxygennotincluded.wiki.gg/images/Saturn_Critter_Trap.png?fbde3e",
+    "present": true
+  },
+  {
+    "name": "Sedimentary Rock",
+    "path": "assets/sedimentary_rock.png",
+    "page": "https://oxygennotincluded.wiki.gg/wiki/Sedimentary_Rock",
+    "url": "https://oxygennotincluded.wiki.gg/images/Sedimentary_Rock.png?66ab87",
+    "present": true
+  },
+  {
+    "name": "Shellfish Tempura",
+    "path": "assets/shellfish_tempura.png",
+    "page": "https://oxygennotincluded.wiki.gg/wiki/Shellfish_Tempura",
+    "url": "https://oxygennotincluded.wiki.gg/images/Shellfish_Tempura.png?d839a6",
+    "present": true
+  },
+  {
+    "name": "Sherberry",
+    "path": "assets/sherberry.png",
+    "page": "https://oxygennotincluded.wiki.gg/wiki/Sherberry",
+    "url": "https://oxygennotincluded.wiki.gg/images/Sherberry.png?66b6fe",
+    "present": true
+  },
+  {
+    "name": "Sherberry Plant",
+    "path": "assets/sherberry_plant.png",
+    "page": "https://oxygennotincluded.wiki.gg/wiki/Sherberry_Plant",
+    "url": "https://oxygennotincluded.wiki.gg/images/Sherberry_Plant.png?f572ce",
+    "present": true
+  },
+  {
+    "name": "Sleet Wheat",
+    "path": "assets/sleet_wheat.png",
+    "page": "https://oxygennotincluded.wiki.gg/wiki/Sleet_Wheat",
+    "url": "https://oxygennotincluded.wiki.gg/images/Sleet_Wheat.png?36c6f3",
+    "present": true
+  },
+  {
+    "name": "Sleet Wheat Grain",
+    "path": "assets/sleet_wheat_grain.png",
+    "page": "https://oxygennotincluded.wiki.gg/wiki/Sleet_Wheat_Grain",
+    "url": "https://oxygennotincluded.wiki.gg/images/Sleet_Wheat_Grain.png?575cbd",
+    "present": true
+  },
+  {
+    "name": "Slime",
+    "path": "assets/slime.png",
+    "page": "https://oxygennotincluded.wiki.gg/wiki/Slime",
+    "url": "https://oxygennotincluded.wiki.gg/images/Slime.png?3e7fd1",
+    "present": true
+  },
+  {
+    "name": "Smoked Fish",
+    "path": "assets/smoked_fish.png",
+    "page": "https://oxygennotincluded.wiki.gg/wiki/Smoked_Fish",
+    "url": "https://oxygennotincluded.wiki.gg/images/Smoked_Fish.png?1263cd",
+    "present": true
+  },
+  {
+    "name": "Smoker",
+    "path": "assets/smoker.png",
+    "page": "https://oxygennotincluded.wiki.gg/wiki/Smoker",
+    "url": "https://oxygennotincluded.wiki.gg/images/Smoker.png?d042eb",
+    "present": true
+  },
+  {
+    "name": "Snac Fruit",
+    "path": "assets/snac_fruit.png",
+    "page": "https://oxygennotincluded.wiki.gg/wiki/Snac_Fruit",
+    "url": "https://oxygennotincluded.wiki.gg/images/Snac_Fruit.png?508ce7",
+    "present": true
+  },
+  {
+    "name": "Snactus",
+    "path": "assets/snactus.png",
+    "page": "https://oxygennotincluded.wiki.gg/wiki/Snactus",
+    "url": "https://oxygennotincluded.wiki.gg/images/Snactus.png?e1cbd0",
+    "present": true
+  },
+  {
+    "name": "Snow",
+    "path": "assets/snow.png",
+    "page": "https://oxygennotincluded.wiki.gg/wiki/Snow",
+    "url": "https://oxygennotincluded.wiki.gg/images/Snow.png?882370",
+    "present": true
+  },
+  {
+    "name": "Sodicane",
+    "path": "assets/sodicane.png",
+    "page": "https://oxygennotincluded.wiki.gg/wiki/Sodicane",
+    "url": "https://oxygennotincluded.wiki.gg/images/Sodicane.png?e1d0eb",
+    "present": true
+  },
+  {
+    "name": "Soufflé Pancakes",
+    "path": "assets/souffl_pancakes.png",
+    "page": "https://oxygennotincluded.wiki.gg/wiki/Souffl%C3%A9_Pancakes",
+    "url": "https://oxygennotincluded.wiki.gg/images/Resource_Souffle_Pancakes.png?554959",
+    "present": true
+  },
+  {
+    "name": "Spicy Tofu",
+    "path": "assets/spicy_tofu.png",
+    "page": "https://oxygennotincluded.wiki.gg/wiki/Spicy_Tofu",
+    "url": "https://oxygennotincluded.wiki.gg/images/Resource_Spicy_Tofu.png?63e774",
+    "present": true
+  },
+  {
+    "name": "Spigot Seal",
+    "path": "assets/spigot_seal.png",
+    "page": "https://oxygennotincluded.wiki.gg/wiki/Spigot_Seal",
+    "url": "https://oxygennotincluded.wiki.gg/images/Spigot_Seal.png?d70cbe",
+    "present": true
+  },
+  {
+    "name": "Spindly Grubfruit",
+    "path": "assets/spindly_grubfruit.png",
+    "page": "https://oxygennotincluded.wiki.gg/wiki/Spindly_Grubfruit",
+    "url": "https://oxygennotincluded.wiki.gg/images/Spindly_Grubfruit.png?8c717c",
+    "present": true
+  },
+  {
+    "name": "Spindly Grubfruit Plant",
+    "path": "assets/spindly_grubfruit_plant.png",
+    "page": "https://oxygennotincluded.wiki.gg/wiki/Spindly_Grubfruit_Plant",
+    "url": "https://oxygennotincluded.wiki.gg/images/Spindly_Grubfruit_Plant.png?92f156",
+    "present": true
+  },
+  {
+    "name": "Squash Fries",
+    "path": "assets/squash_fries.png",
+    "page": "https://oxygennotincluded.wiki.gg/wiki/Squash_Fries",
+    "url": "https://oxygennotincluded.wiki.gg/images/Squash_Fries.png?88b374",
+    "present": true
+  },
+  {
+    "name": "Stone Hatch",
+    "path": "assets/stone_hatch.png",
+    "page": "https://oxygennotincluded.wiki.gg/wiki/Stone_Hatch",
+    "url": "https://oxygennotincluded.wiki.gg/images/Stone_Hatch.png?a56bcf",
+    "present": true
+  },
+  {
+    "name": "Stuffed Berry",
+    "path": "assets/stuffed_berry.png",
+    "page": "https://oxygennotincluded.wiki.gg/wiki/Stuffed_Berry",
+    "url": "https://oxygennotincluded.wiki.gg/images/Resource_Stuffed_Berry.png?e883b0",
+    "present": true
+  },
+  {
+    "name": "Sucrose",
+    "path": "assets/sucrose.png",
+    "page": "https://oxygennotincluded.wiki.gg/wiki/Sucrose",
+    "url": "https://oxygennotincluded.wiki.gg/images/Sucrose_%28Spaced_Out%29.png?ecab3e",
+    "present": true
+  },
+  {
+    "name": "Sulfur",
+    "path": "assets/sulfur.png",
+    "page": "https://oxygennotincluded.wiki.gg/wiki/Sulfur",
+    "url": "https://oxygennotincluded.wiki.gg/images/Sulfur.png?9f057b",
+    "present": true
+  },
+  {
+    "name": "Surf'n'Turf",
+    "path": "assets/surfnturf.png",
+    "page": "https://oxygennotincluded.wiki.gg/wiki/Surf'n'Turf",
+    "url": "https://oxygennotincluded.wiki.gg/images/Resource_SurfnTurf.png?23d06c",
+    "present": true
+  },
+  {
+    "name": "Sushi Bar",
+    "path": "assets/sushi_bar.png",
+    "page": "https://oxygennotincluded.wiki.gg/wiki/Sushi_Bar",
+    "url": "https://oxygennotincluded.wiki.gg/images/Sushi_Bar.png?1f3a7e",
+    "present": true
+  },
+  {
+    "name": "Sushi Roll",
+    "path": "assets/sushi_roll.png",
+    "page": "https://oxygennotincluded.wiki.gg/wiki/Sushi_Roll",
+    "url": "https://oxygennotincluded.wiki.gg/images/Sushi_Roll.png?3ade0b",
+    "present": true
+  },
+  {
+    "name": "Swamp Chard",
+    "path": "assets/swamp_chard.png",
+    "page": "https://oxygennotincluded.wiki.gg/wiki/Swamp_Chard",
+    "url": "https://oxygennotincluded.wiki.gg/images/Swamp_Chard.png?511f63",
+    "present": true
+  },
+  {
+    "name": "Swamp Chard Heart",
+    "path": "assets/swamp_chard_heart.png",
+    "page": "https://oxygennotincluded.wiki.gg/wiki/Swamp_Chard_Heart",
+    "url": "https://oxygennotincluded.wiki.gg/images/Swamp_Chard_Heart.png?2ee21e",
+    "present": true
+  },
+  {
+    "name": "Swampy Delights",
+    "path": "assets/swampy_delights.png",
+    "page": "https://oxygennotincluded.wiki.gg/wiki/Swampy_Delights",
+    "url": "https://oxygennotincluded.wiki.gg/images/Swampy_Delights.png?ad02f3",
+    "present": true
+  },
+  {
+    "name": "Sweatcorn",
+    "path": "assets/sweatcorn.png",
+    "page": "https://oxygennotincluded.wiki.gg/wiki/Sweatcorn",
+    "url": "https://oxygennotincluded.wiki.gg/images/Sweatcorn.png?ed5aed",
+    "present": true
+  },
+  {
+    "name": "Sweatcorn Stalk",
+    "path": "assets/sweatcorn_stalk.png",
+    "page": "https://oxygennotincluded.wiki.gg/wiki/Sweatcorn_Stalk",
+    "url": "https://oxygennotincluded.wiki.gg/images/Sweatcorn_Stalk.png?573460",
+    "present": true
+  },
+  {
+    "name": "Sweetle",
+    "path": "assets/sweetle.png",
+    "page": "https://oxygennotincluded.wiki.gg/wiki/Sweetle",
+    "url": "https://oxygennotincluded.wiki.gg/images/Sweetle.png?f65e9d",
+    "present": true
+  },
+  {
+    "name": "Tallow",
+    "path": "assets/tallow.png",
+    "page": "https://oxygennotincluded.wiki.gg/wiki/Tallow",
+    "url": "https://oxygennotincluded.wiki.gg/images/Tallow.png?57ed23",
+    "present": true
+  },
+  {
+    "name": "Tender Brisket",
+    "path": "assets/tender_brisket.png",
+    "page": "https://oxygennotincluded.wiki.gg/wiki/Tender_Brisket",
+    "url": "https://oxygennotincluded.wiki.gg/images/Tender_Brisket.png?abd036",
+    "present": true
+  },
+  {
+    "name": "Toasted Mimillet",
+    "path": "assets/toasted_mimillet.png",
+    "page": "https://oxygennotincluded.wiki.gg/wiki/Toasted_Mimillet",
+    "url": "https://oxygennotincluded.wiki.gg/images/Toasted_Mimillet.png?34bf9b",
+    "present": true
+  },
+  {
+    "name": "Tofu",
+    "path": "assets/tofu.png",
+    "page": "https://oxygennotincluded.wiki.gg/wiki/Tofu",
+    "url": "https://oxygennotincluded.wiki.gg/images/Resource_Tofu.png?8e21a2",
+    "present": true
+  },
+  {
+    "name": "Tonic Root",
+    "path": "assets/tonic_root.png",
+    "page": "https://oxygennotincluded.wiki.gg/wiki/Tonic_Root",
+    "url": "https://oxygennotincluded.wiki.gg/images/Tonic_Root.png?3f726d",
+    "present": true
+  },
+  {
+    "name": "Tough Meat",
+    "path": "assets/tough_meat.png",
+    "page": "https://oxygennotincluded.wiki.gg/wiki/Tough_Meat",
+    "url": "https://oxygennotincluded.wiki.gg/images/Tough_Meat.png?99ed9b",
+    "present": true
+  },
+  {
+    "name": "Tower Kelp",
+    "path": "assets/tower_kelp.png",
+    "page": "https://oxygennotincluded.wiki.gg/wiki/Tower_Kelp",
+    "url": "https://oxygennotincluded.wiki.gg/images/Tower_Kelp.png?6baca9",
+    "present": true
+  },
+  {
+    "name": "Tublia",
+    "path": "assets/tublia.png",
+    "page": "https://oxygennotincluded.wiki.gg/wiki/Tublia",
+    "url": "https://oxygennotincluded.wiki.gg/images/Tublia.png?ec147b",
+    "present": true
+  },
+  {
+    "name": "Uni",
+    "path": "assets/uni.png",
+    "page": "https://oxygennotincluded.wiki.gg/wiki/Uni",
+    "url": "https://oxygennotincluded.wiki.gg/images/Uni.png?d343f8",
+    "present": true
+  },
+  {
+    "name": "Veggie Poppers",
+    "path": "assets/veggie_poppers.png",
+    "page": "https://oxygennotincluded.wiki.gg/wiki/Veggie_Poppers",
+    "url": "https://oxygennotincluded.wiki.gg/images/Veggie_Poppers.png?64aa8e",
+    "present": true
+  },
+  {
+    "name": "Water",
+    "path": "assets/water.png",
+    "page": "https://oxygennotincluded.wiki.gg/wiki/Water",
+    "url": "https://oxygennotincluded.wiki.gg/images/Water.png?d7de6d",
+    "present": true
+  },
+  {
+    "name": "Waterweed",
+    "path": "assets/waterweed.png",
+    "page": "https://oxygennotincluded.wiki.gg/wiki/Waterweed",
+    "url": "https://oxygennotincluded.wiki.gg/images/Waterweed.png?2ca813",
+    "present": true
+  },
+  {
+    "name": "Wood",
+    "path": "assets/wood.png",
+    "page": "https://oxygennotincluded.wiki.gg/wiki/Wood",
+    "url": "https://oxygennotincluded.wiki.gg/images/Lumber.png?3cce86",
+    "present": true
+  }
+]

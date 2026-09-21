@@ -1,2 +1,4 @@
 __pycache__/
 *.pyc
+wiki-cache/
+_site/
